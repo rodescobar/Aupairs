@@ -1,0 +1,5 @@
+1) Tabela experiencias sai... E vira um campo booleano ou inteiro (0 e 1) na tabela aupairs
+
+2) Idioma relação N x N com aupairs. Falta tabela relacional
+
+3) HabilidadesEspeciais N x N com aupairs.
